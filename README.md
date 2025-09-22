@@ -33,7 +33,7 @@ Copy code
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/JavaCalculator.git
+   git clone https://github.com/Hindu309/JavaCalculator.git
 Open the project in Eclipse:
 
 Go to File > Open Projects from File System
